@@ -32,7 +32,8 @@ The proposed model consists of three main pipelines:
 - **Methods**:
   - **Cosine Similarity**: To measure user behavior similarities.
   - **K-Means Clustering**: For dimensionality reduction and user segmentation.
-  - **Fully Connected Layer**: For final predictions.
+
+- **Fully Connected Layer**: For final predictions.
 
 ---
 
